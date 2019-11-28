@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleFirebaseAuthen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="web_client_id">310400223031-b2q7o7p2ma8d93g0fc7nl7geg5p2pek2.apps.googleusercontent.com</string>
+</resources>

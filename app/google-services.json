@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310400223031",
+    "firebase_url": "https://fir-signin-f2f50.firebaseio.com",
+    "project_id": "fir-signin-f2f50",
+    "storage_bucket": "fir-signin-f2f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310400223031:android:1913b473f4b611cc937cb2",
+        "android_client_info": {
+          "package_name": "com.example.googlefirebaseauthen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310400223031-lnj4l15f353mdrkplvjft7rctaag0lfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlefirebaseauthen",
+            "certificate_hash": "0bcec64a1858779e814c8aec996e54959510ca07"
+          }
+        },
+        {
+          "client_id": "310400223031-b2q7o7p2ma8d93g0fc7nl7geg5p2pek2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARbKmcCRFw62hK43iCzP2RilOZReKZlPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310400223031-b2q7o7p2ma8d93g0fc7nl7geg5p2pek2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
